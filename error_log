@@ -1,0 +1,23 @@
+[23-Aug-2019 03:20:52 UTC] PHP Parse error:  syntax error, unexpected 'H' (T_STRING), expecting ',' or ')' in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 5
+[23-Aug-2019 03:22:30 UTC] PHP Parse error:  syntax error, unexpected 'H' (T_STRING), expecting ',' or ')' in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 5
+[23-Aug-2019 03:22:32 UTC] PHP Parse error:  syntax error, unexpected 'H' (T_STRING), expecting ',' or ')' in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 5
+[23-Aug-2019 03:22:32 UTC] PHP Parse error:  syntax error, unexpected 'H' (T_STRING), expecting ',' or ')' in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 5
+[23-Aug-2019 03:22:32 UTC] PHP Parse error:  syntax error, unexpected 'H' (T_STRING), expecting ',' or ')' in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 5
+[23-Aug-2019 03:22:32 UTC] PHP Parse error:  syntax error, unexpected 'H' (T_STRING), expecting ',' or ')' in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 5
+[23-Aug-2019 03:22:52 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 3
+[23-Aug-2019 03:22:53 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 3
+[23-Aug-2019 03:22:54 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 3
+[23-Aug-2019 03:22:54 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 3
+[23-Aug-2019 03:25:51 UTC] PHP Parse error:  syntax error, unexpected '$format' (T_VARIABLE), expecting ',' or ')' in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 8
+[23-Aug-2019 03:50:36 UTC] PHP Fatal error:  Cannot redeclare getUTCOffset() (previously declared in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php:14) in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 50
+[23-Aug-2019 04:05:15 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 6
+[23-Aug-2019 01:05:20 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 6
+[23-Aug-2019 04:19:07 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 8
+[23-Aug-2019 04:23:09 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 12
+[23-Aug-2019 04:23:14 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 12
+[23-Aug-2019 04:23:17 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 12
+[23-Aug-2019 04:23:27 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 12
+[23-Aug-2019 04:23:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/omarbercor/public_html/_varios/staging/lab/sayhueque/hora.php on line 12
